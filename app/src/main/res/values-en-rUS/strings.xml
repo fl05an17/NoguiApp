@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NoguiApp</string>
+    <!-- Title and description-->
+    <string name="title_intro_1">DISCOVER WHAT HAPPENS IN YOUR CROPS</string>
+    <string name="title_intro_2">REGISTER INFORMATION ABOUT YOUR ACTIVITIES</string>
+    <string name="title_intro_3">GET INSTANT SOLUTIONS</string>
+    <string name="text_term">Al comenzar aceptas los términos y condiciones </string>
+    <string name="frase_register">Aprende sobre tus cultivos y mantenlos sanos</string>
+    <string name="text_et_nombre">Name</string>
+    <string name="text_et_email">Email</string>
+    <string name="text_et_pass">Password</string>
+
+    <!--Bottons-->
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="done">Get Start</string>
+</resources>
