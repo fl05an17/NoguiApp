@@ -18,6 +18,13 @@
     <color name="intro_title_color">#3F3D56</color>
     <color name="intro_description_color">#AFAFB4</color>
     <color name="background">#F8F8F8</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_red">#FD4E4A</color>
+
+
+
+    <!--Lineas-->
+    <color name="gray_line">#707070</color>
 
 
 </resources>

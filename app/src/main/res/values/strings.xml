@@ -10,6 +10,12 @@
     <string name="text_et_nombre">Nombre</string>
     <string name="text_et_email">Correo</string>
     <string name="text_et_pass">Contraseña</string>
+    <string name="cult_profile">Cultivos</string>
+    <string name="pend_profile">Pendientes</string>
+    <string name="descr_profile">Descripción</string>
+    <string name="rol_profile">Rol</string>
+
+
 
 
 

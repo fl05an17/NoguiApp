@@ -10,6 +10,14 @@
     <string name="text_et_nombre">Name</string>
     <string name="text_et_email">Email</string>
     <string name="text_et_pass">Password</string>
+    <string name="cult_profile">Crops</string>
+    <string name="pend_profile">Pending</string>
+    <string name="descr_profile">Description</string>
+    <string name="rol_profile">Role</string>
+
+
+
+
 
     <!--Bottons-->
     <string name="next">Next</string>
