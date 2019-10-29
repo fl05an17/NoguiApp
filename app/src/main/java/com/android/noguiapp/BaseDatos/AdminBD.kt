@@ -11,10 +11,9 @@ class AdminBD(context: Context): SQLiteOpenHelper(context, DATABASE, null, 1){
     }
     override fun onCreate(db: SQLiteDatabase?) {
         db?.execSQL("CREATE TABLE Usuarios(" +
-                "idUsr INTEGER PRIMARY KEY AUTOINCREMENT,"+
-                "nom TEXT NOT NULL," +
-                "email TEXT NOT NULL," +
-                "pass TEXT NOT NULL,)")
+                "nom TEXT," +
+                "email TEXT PRIMARY KEY," +
+                "pass TEXT,)")
     }
     //funcion para madnar a ejecutar un INSERT, UPDATE o DELETE
     fun Ejecuta(sentencia: String): Boolean{
